@@ -1,10 +1,10 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### EDA, Statistical analysis, Data visualization 
 
-[Project 1 Title](/sample_page)
+[Health Insurance](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
