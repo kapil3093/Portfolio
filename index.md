@@ -1,7 +1,8 @@
-## Projects
+
+<h2>Projects 2</h2>
 ---
 
-### Health Insurance
+<h3>Projects 2</h3>
 <p>This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.</p>
 
 <p>Skills and Tools:<p>
@@ -12,7 +13,8 @@
 
 <a href="https://github.com/kapil3093/Health-Insurance">Project Repository Link</a>
 
-### Project 2 Title
+
+<h3>Project 2 Title</h3>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
