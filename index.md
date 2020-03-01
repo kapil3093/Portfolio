@@ -12,7 +12,6 @@
 
 <a href="https://github.com/kapil3093/Health-Insurance">Project Repository Link</a>
 
-
 ### Project 2 Title
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
