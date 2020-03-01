@@ -13,10 +13,12 @@
 <a href="https://github.com/kapil3093/Health-Insurance">Project Repository link</a>
 
 ---
+
 ### Project 2 Title
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
 ### Project 3 Title
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
