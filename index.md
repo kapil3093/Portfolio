@@ -8,7 +8,7 @@
 
 <p>Hypothesis Testing, Data visualisation, statistical Inference<p>
  
-<img src="images/health_insurance.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <a href="https://github.com/kapil3093/Health-Insurance">Project Repository Link</a>
 
