@@ -2,9 +2,9 @@
 
 ---
 
-### EDA, Statistical analysis, Data visualization 
+ 
 
-<h1>Health Insurance</h1>
+### Health Insurance
 <img src="images/health_insurance.png?raw=true"/>
 <a href="https://github.com/kapil3093/Health-Insurance">Project Repository link</a>
 
