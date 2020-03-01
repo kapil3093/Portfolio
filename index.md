@@ -5,7 +5,7 @@
 ### EDA, Statistical analysis, Data visualization 
 
 [Health Insurance](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/health insurance.png?raw=true"/>
 <a href="https://github.com/kapil3093/Health-Insurance">Project Repository link</a>
 
 ---
