@@ -1,12 +1,12 @@
 
-<h2>Projects 2</h2>
+<h2>Projects</h2>
 ---
 
-<h3>Projects 2</h3>
-<p>This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.</p>
+<h3>Health Insurance</h3>
+<b>This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.</b>
+<br>
 
 <p>Skills and Tools:<p>
-
 <p>Hypothesis Testing, Data visualisation, statistical Inference<p>
  
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
