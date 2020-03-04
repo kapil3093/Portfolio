@@ -2,8 +2,11 @@ title: Kapil Soni # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  <b>Skills:</b>
-  <b>Python, Machine Learning, NLP</b>
+  <h3>Skills:<h3>
+  <b>Machine Learning, NLP, Python
+  SQL, Statistics, Data Analysis, AWS,
+  Postgresql, Data Visualisation, EDA, ETL
+  UNIX Shell Scripting</b>
   <br><br>
   <a href="https://www.linkedin.com/in/kapil-soni-3a3419b1/">View My LinkedIn Profile</a> 
   
