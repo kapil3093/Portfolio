@@ -1,5 +1,5 @@
 
-<h2 style="background-color:rgb(255, 99, 71);">Projects</h2>
+<h2>Projects</h2>
 
 ---
 
