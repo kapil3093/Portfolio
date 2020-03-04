@@ -44,7 +44,7 @@
  
 <img src="images/health_insurance.png?raw=true"/>
 
-<a href="https://github.com/kapil3093/Health-Insurance">Project Repository Link</a>
+<a href="https://github.com/kapil3093/Identifying-potential-customers-for-loans">Project Repository Link</a>
 <br><br>
 
 
