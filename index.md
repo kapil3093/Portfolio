@@ -3,7 +3,7 @@
 
 ---
 
-<h3>Health Insurance</h3>
+<h3>Health Insurance Analytics</h3>
 <b>This project used Hypothesis Testing and Visualization to leverage customer's health information like smoking habits, bmi, age, and gender for checking statistical evidence to make valuable decisions of insurance business like charges for health insurance.</b>
 <br><br>
 
