@@ -17,6 +17,20 @@
 
 ---
 
+<h3>Classifying silhouettes of vehicles</h3>
+<b>Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification.</b>
+<br><br>
+
+<b>Skills and tools used: </b>
+<b>Support Vector Machines, Principal Component Analysis, Classification</b>
+ 
+<img src="images/vehicle_silhouettes.jpg?raw=true"/>
+
+<a href="https://github.com/kapil3093/Classifying_silhouettes_of_vehicles">Project Repository Link</a>
+<br><br>
+
+---
+
 <h3>Identifying potential customers for loans</h3>
 <b>Identified potential loan customers for Thera Bank using classification techniques. Compared models built with differnet classification algorithms in order to select the best performing one.</b>
 <br><br>
