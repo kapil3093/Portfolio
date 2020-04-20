@@ -24,7 +24,7 @@
 <b>Skills and tools used:</b>
 <b>Logistic Regression, KNN Classification, Naive Bayes Classification, SVM Classifier</b>
  
-<img src="images/classification.jpg?raw=true"/>
+<img src="images/cust_loan.png?raw=true"/>
 
 <a href="https://github.com/kapil3093/Identifying-potential-customers-for-loans">Project Repository Link</a>
 <br><br>
