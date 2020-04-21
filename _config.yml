@@ -1,6 +1,6 @@
 title: Kapil Soni # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
-description:  this is description  (remove <br> elements if you don't need line breaks)
+description:  this is description  # (remove <br> elements if you don't need line breaks)
   <br><br>
   <h3>Skills:</h3>
   <b>Machine Learning, NLP, Python
