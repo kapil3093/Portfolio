@@ -3,8 +3,6 @@ logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
   <br><br>
-  Second descriptio
-  <br><br>
   <h3>Skills:</h3>
   <b>Machine Learning, NLP, Python
   SQL, Statistics, Data Analysis, AWS,
