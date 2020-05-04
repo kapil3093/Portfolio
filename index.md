@@ -10,7 +10,7 @@
 <b>Skills and tools used: </b>
 <b>Classification (KNN Classifier,Naive Bayes Calssifier, Decision Trees), Ensemble Techniques (Bagging, AdaBoosting, RandomForest Classifier</b>
  
-<img src="images/recommend.png?raw=true"/>
+<img src="images/recommend1.png?raw=true"/>
 
 <a href="https://github.com/kapil3093/Predicting_the_term_deposit_subscription">Project Repository Link</a>
 <br><br>
