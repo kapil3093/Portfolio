@@ -3,16 +3,16 @@
 
 ---
 
-<h3>Predicting the term deposit subscription</h3>
-<b>Leveraged customer information of bank marketing campaigns to predict whether a customer will subscribe to term deposit or not. Different classification algorithms like Decision tree, Logistic Regression were used. Ensemble techniques like Random forest were used to further improve the classification result.</b>
+<h3>User-User Recommendation System From Amazon Reviews</h3>
+<b>Online E-commerce websites like Amazon, Flipkart uses different recommendation models to provide different suggestions to different users. This Project Uses Amazon's Electronics products review dataset to make product recommendation for each user bases on reviews given by other users who have similar purchase history to them.</b>
 <br><br>
 
 <b>Skills and tools used: </b>
-<b>Classification (KNN Classifier,Naive Bayes Calssifier, Decision Trees), Ensemble Techniques (Bagging, AdaBoosting, RandomForest Classifier</b>
+<b>Surprise( Python scikit building and analyzing recommender systems that deal with explicit rating data), Seaborn, Collections</b>
  
 <img src="images/recommend1.png?raw=true"/>
 
-<a href="https://github.com/kapil3093/Predicting_the_term_deposit_subscription">Project Repository Link</a>
+<a href="https://github.com/kapil3093/user_user_recommendation_system">Project Repository Link</a>
 <br><br>
 
 ---
