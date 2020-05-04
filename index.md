@@ -10,6 +10,20 @@
 <b>Skills and tools used: </b>
 <b>Classification (KNN Classifier,Naive Bayes Calssifier, Decision Trees), Ensemble Techniques (Bagging, AdaBoosting, RandomForest Classifier</b>
  
+<img src="images/recommend.png?raw=true"/>
+
+<a href="https://github.com/kapil3093/Predicting_the_term_deposit_subscription">Project Repository Link</a>
+<br><br>
+
+---
+
+<h3>Predicting the term deposit subscription</h3>
+<b>Leveraged customer information of bank marketing campaigns to predict whether a customer will subscribe to term deposit or not. Different classification algorithms like Decision tree, Logistic Regression were used. Ensemble techniques like Random forest were used to further improve the classification result.</b>
+<br><br>
+
+<b>Skills and tools used: </b>
+<b>Classification (KNN Classifier,Naive Bayes Calssifier, Decision Trees), Ensemble Techniques (Bagging, AdaBoosting, RandomForest Classifier</b>
+ 
 <img src="images/term_deposit.jpg?raw=true"/>
 
 <a href="https://github.com/kapil3093/Predicting_the_term_deposit_subscription">Project Repository Link</a>
