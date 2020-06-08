@@ -22,7 +22,7 @@
 <br><br>
 
 <b>Skills and tools used: </b>
-<b>Classification (KNN Classifier,Naive Bayes Calssifier, Decision Trees), Ensemble Techniques (Bagging, AdaBoosting, RandomForest Classifier</b>
+<b>Classification (KNN Classifier,Naive Bayes Classifier, Decision Trees), Ensemble Techniques (Bagging, AdaBoosting, RandomForest Classifier</b>
  
 <img src="images/term_deposit.jpg?raw=true"/>
 
